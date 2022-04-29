@@ -1,18 +1,16 @@
 # Technical Specification
 
-{\` table { font-size: 14px; } \`}
-
 This page provides technical metrics of Face AR SDK feature performance. The values below are for your reference only. We received them on fixed conditions. However, many factors may influence the actual technology performance, e.g. the state of device, other apps running, wi-fi enabled, room temperature, etc. We encourage you to test each feature within your environment.
 
 Please visit SDK Features and SDK Features for Unity for the information regarding features support on different platforms.
 
-:::note
-
+{% hint style="info" %}
 * **FPS** — Frames per second of the face detection algorithm on a given device.
 * **Angles** — Maximum angle on which the technology was able to work during the measurement.
 * **Distance** — Maximum distance on which the technology was able to work during the measurement.
 * **Real-time (online)** — Technology performance in real-time.
-* **Photo (offline)** — The processing time needed to take a photo or process it from the gallery. :::
+* **Photo (offline)** — The processing time needed to take a photo or process it from the gallery.&#x20;
+{% endhint %}
 
 ### SDK Features
 
