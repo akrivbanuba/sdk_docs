@@ -2,15 +2,23 @@
 
 ## Overview
 
-* [Introduction](README.md)
+* [Banuba Face AR SDK Overview](README.md)
 * [Getting Started](overview/getting-started.md)
 * [Specification](overview/specification/README.md)
   * [SDK Features](overview/specification/sdk-features.md)
   * [System Requirements](overview/specification/system-requirements.md)
+  * [Technical Specification](overview/specification/technical-specification.md)
+  * [Banuba SDK Size](overview/specification/banuba-sdk-size.md)
+  * [Minimal SDK](overview/specification/minimal-sdk.md)
+  * [Demo Face Filters](overview/specification/demo-face-filters.md)
 * [Useful Information](overview/useful-information/README.md)
   * [Token Management](overview/useful-information/token-management.md)
   * [Face AR SDK Demo archive](overview/useful-information/face-ar-sdk-demo-archive.md)
-  * [Glossary](overview/useful-information/glossary.md)
+  * [FaceAR Glossary](overview/useful-information/facear-glossary.md)
+  * [Releases](overview/useful-information/releases.md)
+  * [Upgrade SDK version in your app](overview/useful-information/upgrade-sdk-version-in-your-app.md)
+  * [Migration Guides](overview/useful-information/migration-guides.md)
+  * [Third parties library list](overview/useful-information/third-parties-library-list.md)
 
 ## Platforms
 
