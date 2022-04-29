@@ -13,6 +13,8 @@ How to read this Documentation:
 
 The image below shows the components of the Banuba Face AR SDK.
 
+![](.gitbook/assets/introduction\_0.svg)
+
 #### EffectPlayer
 
 EffectPlayer is a low-level library for effects' playing. The code of the library is cross-platform and doesn't depend on the platform-specific APIs and compilers.
@@ -43,7 +45,7 @@ The source code of the platform modules is included in SDK's distribution archiv
 
 Besides bindings to Objective-C and Java we provide native C++ interfaces for iOS and Android. These interfaces are exposed by the same binary libraries and provided on a general basis with every release. We don't recommend using C++ API for mobile platforms unless you have a strong reason for this.
 
-API documentation is available [here](pathname:///generated/doxygen/html/index.html)with samples for [iOS](https://github.com/Banuba/quickstart-ios-cpp) and [Android](https://github.com/Banuba/quickstart-android-cpp).
+API documentation is available [here](pathname:///generated/doxygen/html/index.html) with samples for [iOS](https://github.com/Banuba/quickstart-ios-cpp) and [Android](https://github.com/Banuba/quickstart-android-cpp).
 
 ### More info
 
