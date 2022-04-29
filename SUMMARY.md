@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Banuba Face AR SDK Overview](README.md)
